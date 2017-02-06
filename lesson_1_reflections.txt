@@ -62,3 +62,4 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
     I want to use git for software development. This includes small to medium personal projects as 
     well as collaborating on larger projects with others, professionally or otherwise.
+
