@@ -28,7 +28,10 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    By having a copy of the last known state of the remote, Git can keep track of when 
+    your changes get ahead of the remote and may need to be pushed. Since 'git fetch' 
+    allows you to update your copy of the remote, it also means you can get work done 
+    offline without Git having to constantly check the actual remote repository.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
